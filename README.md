@@ -18,6 +18,7 @@
 # solution for second (VK) case 
 
 Final score -- 0.61
+
 First place
 
 ## float output is output_float.csv, output_float2.csv
